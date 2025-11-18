@@ -16,6 +16,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\avatars\10\758be005-2b39-455a-96a2-1a1a01dd7fd9.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\avatars\19\13b99b2d-d1c9-4d8b-95ea-519c6f6acd4d.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>medical-record-system-backend</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/medical-record-system-backend</BasePath>
+      <RelativePath>avatars/19/13b99b2d-d1c9-4d8b-95ea-519c6f6acd4d.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\avatars\19\13b99b2d-d1c9-4d8b-95ea-519c6f6acd4d.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\avatars\5\0c2097b5-91f7-459f-afa4-f9de9df57346.png))">
       <SourceType>Package</SourceType>
       <SourceId>medical-record-system-backend</SourceId>
@@ -303,6 +319,38 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\18\43d183af-dc59-4a82-80d7-78ee18422015_Screenshot (92).png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\19\0b7981c6-d98d-4a97-8e75-0ef91181050d_July 1st Week 2025 English.pdf))">
+      <SourceType>Package</SourceType>
+      <SourceId>medical-record-system-backend</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/medical-record-system-backend</BasePath>
+      <RelativePath>uploads/19/0b7981c6-d98d-4a97-8e75-0ef91181050d_July 1st Week 2025 English.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\19\0b7981c6-d98d-4a97-8e75-0ef91181050d_July 1st Week 2025 English.pdf))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\19\3d1cf13a-a5c9-41ac-977e-c21bc3aba61a_Screenshot 2025-11-18 150851.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>medical-record-system-backend</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/medical-record-system-backend</BasePath>
+      <RelativePath>uploads/19/3d1cf13a-a5c9-41ac-977e-c21bc3aba61a_Screenshot 2025-11-18 150851.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\19\3d1cf13a-a5c9-41ac-977e-c21bc3aba61a_Screenshot 2025-11-18 150851.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\40b52756-b2eb-443c-9d4a-579a616580ef_BASIC TASK 375.pdf))">
       <SourceType>Package</SourceType>

@@ -10,7 +10,7 @@ using medical_record_system_backend.Swagger;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add configuration
+//configuration
 var configuration = builder.Configuration;
 
 builder.Services.AddSwaggerGen(c =>
@@ -41,16 +41,25 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
         options.SlidingExpiration = true;
     });
 
+
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("DevCors", policy =>
-    {
-        policy.WithOrigins("http://localhost:3000")
-              .AllowCredentials()
-              .AllowAnyHeader()
-              .AllowAnyMethod();
-    });
+    options.AddPolicy(name: MyAllowSpecificOrigins,
+        policy =>
+        {
+            policy.WithOrigins(
+                "https://medical-frontend-neww.vercel.app",   // frontend URL
+                "http://localhost:3000"                       // local dev
+            )
+            .AllowAnyHeader()
+            .AllowAnyMethod()
+            .AllowCredentials();
+        });
 });
+
+
 
 var app = builder.Build();
 
@@ -70,7 +79,7 @@ app.UseStaticFiles(new StaticFileOptions
 
 app.UseStaticFiles(); // serve /wwwroot
 app.UseRouting();
-app.UseCors("DevCors");
+app.UseCors(MyAllowSpecificOrigins);
 app.UseAuthentication();
 app.UseAuthorization();
 
@@ -82,44 +91,4 @@ app.UseSwaggerUI();
 app.Run();
 
 
-//namespace medical_record_system_backend
-//{
 
-
-
-
-
-
-//    //public class Program
-//    //{
-//    //    public static void Main(string[] args)
-//    //    {
-//    //        var builder = WebApplication.CreateBuilder(args);
-
-//    //        // Add services to the container.
-
-//    //        builder.Services.AddControllers();
-//    //        // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-//    //        builder.Services.AddEndpointsApiExplorer();
-//    //        builder.Services.AddSwaggerGen();
-
-//    //        var app = builder.Build();
-
-//    //        // Configure the HTTP request pipeline.
-//    //        if (app.Environment.IsDevelopment())
-//    //        {
-//    //            app.UseSwagger();
-//    //            app.UseSwaggerUI();
-//    //        }
-
-//    //        app.UseHttpsRedirection();
-
-//    //        app.UseAuthorization();
-
-
-//    //        app.MapControllers();
-
-//    //        app.Run();
-//    //    }
-//    //}
-//}
