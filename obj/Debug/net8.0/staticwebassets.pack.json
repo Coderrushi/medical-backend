@@ -1,0 +1,201 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\avatars\\10\\758be005-2b39-455a-96a2-1a1a01dd7fd9.jpg",
+      "PackagePath": "staticwebassets\\avatars\\10\\758be005-2b39-455a-96a2-1a1a01dd7fd9.jpg"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\avatars\\5\\0c2097b5-91f7-459f-afa4-f9de9df57346.png",
+      "PackagePath": "staticwebassets\\avatars\\5\\0c2097b5-91f7-459f-afa4-f9de9df57346.png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\avatars\\5\\2c7b6d93-e251-4d9c-98ae-7506bf60e157.jpg",
+      "PackagePath": "staticwebassets\\avatars\\5\\2c7b6d93-e251-4d9c-98ae-7506bf60e157.jpg"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\avatars\\9\\cb3f4f99-dda8-4845-87d6-e74ee6580589.jpg",
+      "PackagePath": "staticwebassets\\avatars\\9\\cb3f4f99-dda8-4845-87d6-e74ee6580589.jpg"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\11\\443da1ed-800f-49b6-bf65-6e6ca81ab537_Screenshot (119).png",
+      "PackagePath": "staticwebassets\\uploads\\11\\443da1ed-800f-49b6-bf65-6e6ca81ab537_Screenshot (119).png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\11\\604dd808-c8ad-4353-a04b-9036dc9f045e_IBPS SBI CLERK MOCK 4 by Arpit sir.pdf",
+      "PackagePath": "staticwebassets\\uploads\\11\\604dd808-c8ad-4353-a04b-9036dc9f045e_IBPS SBI CLERK MOCK 4 by Arpit sir.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\11\\d239068a-4933-4ecd-a95a-5b4e21beacb3_hrushikesh-prakash-zarekar (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\11\\d239068a-4933-4ecd-a95a-5b4e21beacb3_hrushikesh-prakash-zarekar (1).pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\15\\01c8079e-b791-4faa-93b7-8e042ff75252_Screenshot 2025-08-25 215843.png",
+      "PackagePath": "staticwebassets\\uploads\\15\\01c8079e-b791-4faa-93b7-8e042ff75252_Screenshot 2025-08-25 215843.png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\15\\2408c3ca-8f47-4b72-bcb9-e21df22b4bc0_BASIC TASK 370.pdf",
+      "PackagePath": "staticwebassets\\uploads\\15\\2408c3ca-8f47-4b72-bcb9-e21df22b4bc0_BASIC TASK 370.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\15\\25f7a23c-b3c8-4e14-99ba-5122378f12d4_Screenshot 2025-10-14 234119.png",
+      "PackagePath": "staticwebassets\\uploads\\15\\25f7a23c-b3c8-4e14-99ba-5122378f12d4_Screenshot 2025-10-14 234119.png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\15\\ddc39ff6-7031-4692-ba7a-d4eb1d2dd37f_BASIC TASK 373.pdf",
+      "PackagePath": "staticwebassets\\uploads\\15\\ddc39ff6-7031-4692-ba7a-d4eb1d2dd37f_BASIC TASK 373.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\17\\2afa821a-795a-4790-ad50-18c4931ceb89_Quant_Practice_Paper_#67_by_Aashish_Arora_for_Bank_Exams_2025_docx.pdf",
+      "PackagePath": "staticwebassets\\uploads\\17\\2afa821a-795a-4790-ad50-18c4931ceb89_Quant_Practice_Paper_#67_by_Aashish_Arora_for_Bank_Exams_2025_docx.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\17\\385f9874-4f48-442c-90f1-46f2218cc1e8_BASIC TASK 375 (2).pdf",
+      "PackagePath": "staticwebassets\\uploads\\17\\385f9874-4f48-442c-90f1-46f2218cc1e8_BASIC TASK 375 (2).pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\17\\6f28dbb6-fd14-4bb8-aea4-c117c302d3cf_Screenshot (93).png",
+      "PackagePath": "staticwebassets\\uploads\\17\\6f28dbb6-fd14-4bb8-aea4-c117c302d3cf_Screenshot (93).png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\17\\fca2bc15-3c2e-4463-b606-bc9583c7c060_Screenshot 2025-11-17 231834.png",
+      "PackagePath": "staticwebassets\\uploads\\17\\fca2bc15-3c2e-4463-b606-bc9583c7c060_Screenshot 2025-11-17 231834.png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\18\\03fb5c8d-9642-45dd-a995-f057dfeb01c7_FAANGPath_Simple_Template (9).pdf",
+      "PackagePath": "staticwebassets\\uploads\\18\\03fb5c8d-9642-45dd-a995-f057dfeb01c7_FAANGPath_Simple_Template (9).pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\18\\1607af99-c6ef-4138-9357-88eecad1e44f_dfg.png",
+      "PackagePath": "staticwebassets\\uploads\\18\\1607af99-c6ef-4138-9357-88eecad1e44f_dfg.png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\18\\1dadc0b0-b83d-4e28-b86c-2b57157ac293_ibps po mains ga questions 2024.pdf",
+      "PackagePath": "staticwebassets\\uploads\\18\\1dadc0b0-b83d-4e28-b86c-2b57157ac293_ibps po mains ga questions 2024.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\18\\43d183af-dc59-4a82-80d7-78ee18422015_Screenshot (92).png",
+      "PackagePath": "staticwebassets\\uploads\\18\\43d183af-dc59-4a82-80d7-78ee18422015_Screenshot (92).png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\40b52756-b2eb-443c-9d4a-579a616580ef_BASIC TASK 375.pdf",
+      "PackagePath": "staticwebassets\\uploads\\40b52756-b2eb-443c-9d4a-579a616580ef_BASIC TASK 375.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\5\\03cc704e-5494-4bc7-b310-71e19e0e75c5_IBPS-Clerk XV Updated Vacancies.pdf",
+      "PackagePath": "staticwebassets\\uploads\\5\\03cc704e-5494-4bc7-b310-71e19e0e75c5_IBPS-Clerk XV Updated Vacancies.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\5\\2c3c2790-b9d0-442c-b5ee-cc6aa3f7db06_hrushikesh-prakash-zarekar.pdf",
+      "PackagePath": "staticwebassets\\uploads\\5\\2c3c2790-b9d0-442c-b5ee-cc6aa3f7db06_hrushikesh-prakash-zarekar.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\5\\348ffb22-b656-4f05-8aa2-75c22f0bdf2e_Developer_Assignment (3).pdf",
+      "PackagePath": "staticwebassets\\uploads\\5\\348ffb22-b656-4f05-8aa2-75c22f0bdf2e_Developer_Assignment (3).pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\5\\3b46ea54-1163-4ecd-9696-2199223387aa_pngtree-user-profile-avatar-png-image_10211467.png",
+      "PackagePath": "staticwebassets\\uploads\\5\\3b46ea54-1163-4ecd-9696-2199223387aa_pngtree-user-profile-avatar-png-image_10211467.png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\5\\64d609d2-d89f-4423-8e1d-d05ffd75f073_BLOOD RELATION (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\5\\64d609d2-d89f-4423-8e1d-d05ffd75f073_BLOOD RELATION (1).pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\5\\78ebb7ac-8afc-4bb2-b734-d22d0060110a_Screenshot (118).png",
+      "PackagePath": "staticwebassets\\uploads\\5\\78ebb7ac-8afc-4bb2-b734-d22d0060110a_Screenshot (118).png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\5\\7d209655-a471-4d3b-8422-a2ab75ac1ddf_Screenshot (118).png",
+      "PackagePath": "staticwebassets\\uploads\\5\\7d209655-a471-4d3b-8422-a2ab75ac1ddf_Screenshot (118).png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\5\\97bbc70b-afe5-4924-8f09-c57864d64bdf_BASIC TASK 375.pdf",
+      "PackagePath": "staticwebassets\\uploads\\5\\97bbc70b-afe5-4924-8f09-c57864d64bdf_BASIC TASK 375.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\5\\b49539aa-5c89-4e15-946e-a155de0458d1_Screenshot 2025-09-23 171955.png",
+      "PackagePath": "staticwebassets\\uploads\\5\\b49539aa-5c89-4e15-946e-a155de0458d1_Screenshot 2025-09-23 171955.png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\5\\c02ab07f-7c05-4932-990f-89318e4823a2__Current Affairs Study PDF_ August 2025 - English (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\5\\c02ab07f-7c05-4932-990f-89318e4823a2__Current Affairs Study PDF_ August 2025 - English (1).pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\5\\c72fa1b1-98f0-4725-b5d9-b4af2baf30aa_Hrushikesh Zarekar.pdf",
+      "PackagePath": "staticwebassets\\uploads\\5\\c72fa1b1-98f0-4725-b5d9-b4af2baf30aa_Hrushikesh Zarekar.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\5\\ceafb91f-3a29-451e-97f3-8a12cbc11bc0_Developer_Assignment (3).pdf",
+      "PackagePath": "staticwebassets\\uploads\\5\\ceafb91f-3a29-451e-97f3-8a12cbc11bc0_Developer_Assignment (3).pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\5\\cf22f892-6295-4999-8544-1b71e85b6930_SBI Clerk Mains PAPER 2.pdf",
+      "PackagePath": "staticwebassets\\uploads\\5\\cf22f892-6295-4999-8544-1b71e85b6930_SBI Clerk Mains PAPER 2.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\5\\e3ab4592-15a1-4640-a58a-e6a7e4beba30_Screenshot (117).png",
+      "PackagePath": "staticwebassets\\uploads\\5\\e3ab4592-15a1-4640-a58a-e6a7e4beba30_Screenshot (117).png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\5\\efdff81b-05f9-42dc-a0ae-8f5a2b7705df_hrushikesh-prakash-zarekar.pdf",
+      "PackagePath": "staticwebassets\\uploads\\5\\efdff81b-05f9-42dc-a0ae-8f5a2b7705df_hrushikesh-prakash-zarekar.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\8\\34d72d41-2213-416c-898c-34b0dd0e2119_Screenshot 2025-08-25 215843.png",
+      "PackagePath": "staticwebassets\\uploads\\8\\34d72d41-2213-416c-898c-34b0dd0e2119_Screenshot 2025-08-25 215843.png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\8\\353c3d10-c85f-4a12-bc76-ef267518f6c2_Cloze Test No Annotation 15th Oct.pdf",
+      "PackagePath": "staticwebassets\\uploads\\8\\353c3d10-c85f-4a12-bc76-ef267518f6c2_Cloze Test No Annotation 15th Oct.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\8\\41d5d880-9979-4fb7-8f7d-4283f88d1d7f_CRP-RRBs-XIV_Final_AD_31.08.25@UPDATXAMS.pdf",
+      "PackagePath": "staticwebassets\\uploads\\8\\41d5d880-9979-4fb7-8f7d-4283f88d1d7f_CRP-RRBs-XIV_Final_AD_31.08.25@UPDATXAMS.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\8\\6cb1fa19-0e9e-40e3-9325-217ae04ad5a6_Screenshot 2025-08-25 215843.png",
+      "PackagePath": "staticwebassets\\uploads\\8\\6cb1fa19-0e9e-40e3-9325-217ae04ad5a6_Screenshot 2025-08-25 215843.png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\8\\6ec8f671-3fdb-41d0-8c62-80faba535d4c_download.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\8\\6ec8f671-3fdb-41d0-8c62-80faba535d4c_download.jpeg"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\8\\cd3b26d3-92cc-4963-b0af-d562e8b57957_BASIC TASK 370.pdf",
+      "PackagePath": "staticwebassets\\uploads\\8\\cd3b26d3-92cc-4963-b0af-d562e8b57957_BASIC TASK 370.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\8\\d10a0cc4-f593-475e-99af-9f822551cb04_CRP-CSA_XV_BANKWISE_STATEWISE_VACANCY_14.11.2025.pdf",
+      "PackagePath": "staticwebassets\\uploads\\8\\d10a0cc4-f593-475e-99af-9f822551cb04_CRP-CSA_XV_BANKWISE_STATEWISE_VACANCY_14.11.2025.pdf"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\8\\e4879179-fce9-41d1-83ea-14820f3796d0_Self_signn-preview (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\8\\e4879179-fce9-41d1-83ea-14820f3796d0_Self_signn-preview (1).jpg"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\9\\48f1fad1-ca68-4f4a-9ef2-f944af54495b_Screenshot (92).png",
+      "PackagePath": "staticwebassets\\uploads\\9\\48f1fad1-ca68-4f4a-9ef2-f944af54495b_Screenshot (92).png"
+    },
+    {
+      "Id": "F:\\Medical_Record_System\\backend\\medical-record-system-backend\\wwwroot\\uploads\\9\\ee5feb4b-2bc5-41c8-8371-31a9d48b6690_BLOOD RELATION.pdf",
+      "PackagePath": "staticwebassets\\uploads\\9\\ee5feb4b-2bc5-41c8-8371-31a9d48b6690_BLOOD RELATION.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.medical-record-system-backend.props",
+      "PackagePath": "build\\medical-record-system-backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.medical-record-system-backend.props",
+      "PackagePath": "buildMultiTargeting\\medical-record-system-backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.medical-record-system-backend.props",
+      "PackagePath": "buildTransitive\\medical-record-system-backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.medical-record-system-backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
